@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: "The Dark Tower" },
-    { title: "The Witcher" },
-    { title: "The Stand" },
-    { title: "The Elegant Universe" }
+    { title: "The Dark Tower", pages: 300 },
+    { title: "The Witcher", pages: 200 },
+    { title: "The Stand", pages: 850 },
+    { title: "The Elegant Universe", pages: 150 }
   ];
 }
